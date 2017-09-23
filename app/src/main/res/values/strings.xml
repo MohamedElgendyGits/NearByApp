@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NearByApp</string>
+
+    <string name="location_permission_error">Unfortunately we do not have permission to get location :( </string>
+    <string name="single_update">Single Update</string>
+    <string name="real_time">Real-Time</string>
+    <string name="error">Something went wrong :(</string>
+    <string name="retry">Retry</string>
+    <string name="loading_message">Loading...</string>
+    <string name="unknown_error">Something went wrong !!</string>
+    <string name="connection_failed">You are not connected to the internet !!</string>
+    <string name="location_failed">Location settings requirements not satisfied.</string>
+
+</resources>
