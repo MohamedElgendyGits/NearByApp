@@ -179,6 +179,7 @@ public class NearByPresenterImpl implements NearByPresenter {
             public void onError(@NonNull Throwable e) {
                 nearByView.hideProgressLoading();
                 nearByView.showInlineError(TextUtils.getString(R.string.unknown_error));
+                checkMode();
             }
         });
 

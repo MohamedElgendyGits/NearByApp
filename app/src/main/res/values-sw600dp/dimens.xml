@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- activity_main.xml -->
+    <dimen name="app_title_text_size">22sp</dimen>
+    <dimen name="permission_error_text_size">27sp</dimen>
+    <dimen name="permission_error_text_margin">33dp</dimen>
+
+    <!-- fragment_near_by.xml -->
+    <dimen name="no_internet_error_text_size">27sp</dimen>
+    <dimen name="no_internet_error_text_margin">32dp</dimen>
+    <dimen name="recycler_view_margin">7dp</dimen>
+
+    <!-- list_item_venues.xml -->
+    <dimen name="card_view_margin_layout">5dp</dimen>
+    <dimen name="card_view_radius">12dp</dimen>
+    <dimen name="card_view_elevation">5dp</dimen>
+    <dimen name="image_width">80dp</dimen>
+    <dimen name="image_height">80dp</dimen>
+    <dimen name="image_start_margin">7dp</dimen>
+    <dimen name="name_text_size">17sp</dimen>
+    <dimen name="address_text_size">14sp</dimen>
+
+</resources>

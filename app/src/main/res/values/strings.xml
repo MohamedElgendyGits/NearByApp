@@ -11,4 +11,5 @@
     <string name="connection_failed">You are not connected to the internet !!</string>
     <string name="location_failed">Location settings requirements not satisfied.</string>
 
+    <string name="screen_type">phone</string>
 </resources>

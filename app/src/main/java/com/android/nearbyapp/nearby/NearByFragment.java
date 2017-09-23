@@ -115,7 +115,6 @@ public class NearByFragment extends Fragment implements NearByView {
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
         outState.putParcelableArrayList(SAVED_LAYOUT_MANAGER, venueViewModelArrayList);
     }
 

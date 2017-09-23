@@ -10,8 +10,8 @@ public class NearByConstants {
     public static final String SAVED_LAYOUT_MANAGER = "layout_state";
 
     // four square api credentials
-    public static final String CLIENT_ID = "FPDS0NJDH3DFCOEQBETFLCMQWZLAB2YYWR4FLSBP52OS04P4";
-    public static final String CLIENT_SECRET = "LTT2YASCZQ2QLFCHRMDMQ0ZW4C3OSC4QQH0TJCCKM0ZCJDBZ";
+    public static final String CLIENT_ID = "AQHM4MUL4L40MYCVNR3VLNPABDSEDME3HUI2MJRLFHGDEIHV";
+    public static final String CLIENT_SECRET = "XOILCMWBS2PQLX0QXXCAONY3BCW1EXMEAXUZ5LL3CCOUA4ND";
     public static final String API_CREATION_DATE = "20170917";
     public static final String API_RADIUS = "1000";
     public static final String IMAGE_SIZE = "original";
